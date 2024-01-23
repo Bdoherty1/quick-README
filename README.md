@@ -38,7 +38,3 @@ To test the application, follow these steps:
 This application is covered under the MIT license.
 For more details, please see [LICENSE](LICENSE).
 
-## Questions
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Email: YourEmailAddress
-  > Feel free to reach out with any additional questions.
